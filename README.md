@@ -1,6 +1,7 @@
 # Web-julkaisujarjestelmat
 
-
+Tästä projektista löytyy Web-julkaisujärjestelmä kurssin harjoitustehtävien dokumentaatio. 
+Jokainen harjiotus on omassa kansiossaan ja dokumentaatio itsessään on aina .md tiedostossa.
 
 ## Getting started
 
