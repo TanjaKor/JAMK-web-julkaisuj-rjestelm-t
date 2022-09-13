@@ -35,4 +35,50 @@ Onnistuu, valitsee värivalikosta värit (linkkien värit "Primary Color" vaihde
 Sivun löytää etsi-toiminnolla (tai kirjoittamalla sivun nimen osoitekenttään localhostin perään)
 2/2
 
+## T9 uusi menu
+![kuva](menu1.png)
+![kuva](menu2.png)
+Hyvin näkyy, lisäsin sen footerin menuun ja päämenuun.
+2/2
+
+## T10 menun asetukset
+![kuva](menu3.png)
+Siinäpä näkyy
+1/1
+
+## T11 Footer Widget
+![kuva](navmenu.png)
+siellä lepää
+![kuva](einavmenua.png)
+poistettu todistetusti
+2/2
+
+## T12 CSS kustomointi
+![kuva](css_kustomointi.png)
+1/1
+
+## T13 lisää teemoja
+Material designillä footer widgetiin alunperin lisätty meny siirtyy sidebar widgetiin. Footer widget tulee erikseen vielä alle (kun sen käy lisäämässä "päälle"). Jos footer widgetiä ei ole päällä, se ei näy lainkaan.
+![kuva](material_design.png)
+
+Bootstrap Fastilla ei myöskän footeriin tule menua automaattisesti. Mutta näkyy kun sen laittaa päälle
+![kuva](bs_fast.png)
+
+Bootstrap Starterilla footer menua ei saa näkyviin, vaikka se olisi päällä muissa teemoissa. (Koko footer on näkymätön)
+![kuva](starter.png)
+
+Top Top Menu näkyy kaikissa.
+1/1
+
+##T14 
+
+
+##T15
+tehty opettajan ohjeistuksen mukaan videolta seuraten.
+![kuva](wpjaubuntut15.png)
+
+
+
+
+
 
