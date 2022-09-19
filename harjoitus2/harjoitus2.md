@@ -18,7 +18,8 @@ Tehty opettajan mukana videon perässä
 ## T5
 
 ## T7
-Tehty opettajan mukana videon perässä
+Tehty opettajan mukana videon perässä.
+![](/harjoitus2/images/T7.png)
 3/3
 
 ## T9

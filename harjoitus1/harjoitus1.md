@@ -70,16 +70,17 @@ Bootstrap Starterilla footer menua ei saa näkyviin, vaikka se olisi päällä m
 Top Top Menu näkyy kaikissa.
 1/1
 
-##T14 
+## T14 
 /3
 
-##T15
+## T15
 tehty opettajan ohjeistuksen mukaan videolta seuraten.
 ![kuva](wpjaubuntut15.png)
 5/5
 
 ## T16
 Sain tehtyä XAMPista varmuuskopion MyPhp:n kautta, mutta vle-versiosta en vielä
+![](T16_xampp.png)
 2.5/5
 
 
