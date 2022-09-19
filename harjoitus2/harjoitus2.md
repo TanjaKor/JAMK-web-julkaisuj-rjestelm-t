@@ -34,6 +34,8 @@ Sehän toimi. En poistanut "alta pois" alkuperäistä kirjautumista, mutta kyll�
 
 Subscriberina kirjautuessa kirjautumissivu muuttui, ei tullut enää dashnboardia. Muillak äyttäjillä meni dashboardille normaalisti. Eli en tiedä oliko tuossa tarkoituskin, että kirjoitusoikeuden omaavat pysyy samankaltaisella alustalla, mutta subscriberit ei? Muita muutoksia en havainnut. Sivut ja artikkelit avautui ihan niinkuin ennenkin.
 
+Kun pluginin deaktivoi, niin kirjautumis/rekisteröitymislinkit näkyy vielä menussa, muttei vie mihinkään.
+
 ![](/harjoitus2/images/T6.png)
 2/2
 
