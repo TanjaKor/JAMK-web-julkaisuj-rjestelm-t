@@ -44,6 +44,24 @@ Tehty opettajan mukana videon perässä.
 ![](/harjoitus2/images/T7.png)
 3/3
 
+## T8
+Sain kaavakkeen näkyviin ja viestit tulevat tietokantaan, mutta sähköpostilähetys ei toimi.
+![](/harjoitus2/images/T8_phpmyadmin.png)
+2/4
+
 ## T9
 Tehty opettajan mukana videon perässä
 2/2
+
+## T10
+![](/harjoitus2/images/T10.png)
+Hyvin toimii ja tallentaa. Vähän isoveli valvoo meininkiä.
+1/1
+
+## T11
+![](/harjoitus2/images/T11.png)
+Siellä lepää hienosti sidebarissa.
+2/2
+
+## T12
+
