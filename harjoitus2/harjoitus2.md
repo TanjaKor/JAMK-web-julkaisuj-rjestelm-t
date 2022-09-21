@@ -2,14 +2,17 @@
 
 ## T1
 Tehty opettajan mukana videon perässä
+![](/harjoitus2/images/T1.png)
 1/1
 
 ## T2
 Tehty opettajan mukana videon perässä.
+![](/harjoitus2/images/T2.png)
 2/2
 
 ## T3
 Tehty opettajan mukana videon perässä
+![](/harjoitus2/images/T3.png)
 3/3
 
 ## T4
@@ -51,6 +54,7 @@ Sain kaavakkeen näkyviin ja viestit tulevat tietokantaan, mutta sähköpostilä
 
 ## T9
 Tehty opettajan mukana videon perässä
+![](/harjoitus2/images/T9.png)
 2/2
 
 ## T10
@@ -64,4 +68,7 @@ Siellä lepää hienosti sidebarissa.
 2/2
 
 ## T12
+Googlen avulla homma hoitui, suurinta hiusten lähtöä aiheutti omalta koneelta tiedoston siirto linuxille, mutta kun myönsin tappioni ja tein siirron WinSCP:llä, niin homma toimi hienosti.
 
+![](/harjoitus2/images/T12.png)
+"Oikea" ohjelmisto toimii wordpress urlissa ja tämä toinen wordpress2 urlissa.

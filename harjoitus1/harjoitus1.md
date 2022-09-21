@@ -79,9 +79,14 @@ tehty opettajan ohjeistuksen mukaan videolta seuraten.
 5/5
 
 ## T16
-Sain tehtyä XAMPista varmuuskopion MyPhp:n kautta, mutta vle-versiosta en vielä
+Sain tehtyä XAMPista varmuuskopion MyPhp:n kautta:
+
 ![](T16_xampp.png)
-2.5/5
+
+VLE:n varmuuskopion tein wordpressohjeiden mukaan ja lopulta zippasin koko kansion html-kansioon: 
+![](T16_vle.png)
+Tämä vaati vähän tutustumista, sillä suoraan wordpressin ohjeilla en saanut tehtyä. mutta lopulta onnistui, se tärkeintä :)
+5/5
 
 
 
