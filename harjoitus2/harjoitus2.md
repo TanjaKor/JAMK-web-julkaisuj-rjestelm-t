@@ -8,17 +8,24 @@ Tehty opettajan mukana videon perässä
 ## T2
 Tehty opettajan mukana videon perässä.
 ![](/harjoitus2/images/T2.png)
+Ja tässä kuvassa näkyy avainsanat ja kommenttikin:
+![](/harjoitus2/images/T2_2.png)
 2/2
 
 ## T3
 Tehty opettajan mukana videon perässä
 ![](/harjoitus2/images/T3.png)
+Ja tästä vielä todennus, että on katergorioita(kuvakaappaus otettu myöhemmin, joten teema on eri)
+![](/harjoitus2/images/T3_2.png)
 3/3
 
 ## T4
 Yllättäen kaikki näyttäisi toimivan julkisella puolella. Hieman hämäsi, kun dashboardin previewssä ei näkynyt ainakaan marginaalit. 
 
 ![](/harjoitus2/images/T4.png)
+
+Ja todistusaineistoa, että blocki on oikea:
+![](/harjoitus2/images/T4_2.png)
 2/2
 
 ## T5
@@ -45,12 +52,14 @@ Kun pluginin deaktivoi, niin kirjautumis/rekisteröitymislinkit näkyy vielä me
 ## T7
 Tehty opettajan mukana videon perässä.
 ![](/harjoitus2/images/T7.png)
+Viesti onnistuneesta lähettämisestä muutettiin WP-formsin asetukseista. 
 3/3
 
 ## T8
 Sain kaavakkeen näkyviin ja viestit tulevat tietokantaan, mutta sähköpostilähetys ei toimi.
 ![](/harjoitus2/images/T8_phpmyadmin.png)
-2/4
+![](/harjoitus2/images/T8.png)
+3/4
 
 ## T9
 Tehty opettajan mukana videon perässä
@@ -59,7 +68,7 @@ Tehty opettajan mukana videon perässä
 
 ## T10
 ![](/harjoitus2/images/T10.png)
-Hyvin toimii ja tallentaa. Vähän isoveli valvoo meininkiä.
+Hyvin toimii ja tallentaa. Vähän isoveli valvoo meininkiä. Ei vaatinut kauheasti vaivaa.
 1/1
 
 ## T11
@@ -72,3 +81,4 @@ Googlen avulla homma hoitui, suurinta hiusten lähtöä aiheutti omalta koneelta
 
 ![](/harjoitus2/images/T12.png)
 "Oikea" ohjelmisto toimii wordpress urlissa ja tämä toinen wordpress2 urlissa.
+3/3

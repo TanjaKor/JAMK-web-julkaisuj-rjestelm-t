@@ -4,7 +4,7 @@ Tehty opettajan mukana
 4/4
 
 ## T2
-Teema on luotu. Vaihdoin ihan testin vuoksi aivan karmean fontin :D (palautan sen myöhemmin latoksi takaisin). 
+Tämäkin tehty opettajan mukana. Vaihdoin ihan testin vuoksi aivan karmean fontin :D (palautan sen myöhemmin latoksi takaisin). 
 
 ![](/harjoitus3/images/T2.png)
 
@@ -28,5 +28,14 @@ Opettajan mukana videon mukaan:
 4/4
 
 ## T5
+Tässä olikin hieman pohtimista, mutta sain ainakin jotain esiin. En kylläkään keksinyt miten muotoilut olisi saanut suoraan style tiedostosta haettua, sillä luokan määrittelyllä se ei toiminut. Tein sitten inline-css:nä omia muokkauksia.
 
+![](/harjoitus3/images/T5.png)
 
+Otin hommaan aika suoriltaan brutettamisen, kun googlen avulla en suoraan vastausta löytänyt. Eli kopioin sidebar.php:stä main sidebarinin näyttämisen ja lähdin sitä kautta testailemaan ja muokkaamaan näkymää.
+3/4
+
+## T6
+Tämä oli tosiaankin tosi simppeli juttu. Kaikki aiemmissa tehtävissä tehdyt toiminnallisuudet siirtyi child-teemaa automaattisesti. Eli ei tarvinnut kuin luoda uusi lapsiteema. 
+![](/harjoitus3/images/T6_2.png)
+![](/harjoitus3/images/T6.png)
