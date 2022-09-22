@@ -71,7 +71,9 @@ Top Top Menu näkyy kaikissa.
 1/1
 
 ## T14 
-/3
+Tässä olikin älypähkinää kerrakseen, mutta hyvien yöunien jälkeen tajusin yksinkertaisen virheeni minkä tein ja pääsin kuin pääsinkin asentamaan!
+![](student.png)
+3/3
 
 ## T15
 tehty opettajan ohjeistuksen mukaan videolta seuraten.
