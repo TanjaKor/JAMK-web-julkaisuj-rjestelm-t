@@ -77,8 +77,10 @@ Siellä lepää hienosti sidebarissa.
 2/2
 
 ## T12
-Googlen avulla homma hoitui, suurinta hiusten lähtöä aiheutti omalta koneelta tiedoston siirto linuxille, mutta kun myönsin tappioni ja tein siirron WinSCP:llä, niin homma toimi hienosti.
+Googlen avulla homma hoitui, suurinta hiusten lähtöä aiheutti omalta koneelta tiedoston siirto linuxille ja sivujen näkyminen oikein. Ekan ongelman ratkaisin, kun myönsin tappioni ja tein siirron WinSCP:llä, niin homma toimi hienosti... kunnes: klikkailin menussa näkyviä linkkejä ja mikää ei vienytkään minnekään. Tietokannassa kaikki sivut ja muut näkyivät oikein, mutta url näytti jotenkin erilaiselta. Suoraan tietokantaan muuttamien ei auttanut mitään (kokeilin USEITA eri vaihtoehtoja.) Tämä vaatikin jo pidempää googlettelua ja useiden sivustojen läpikäyntiä,k unnes lopulta noin tunnin etsinnän jälkeen löysin toimivat ohjeet. Lopulta kävi siis ilmi, että ongelma oli kuin olikin urleissa, mutta se johtui Wordpressiin jostain ilmestyneistä permalinkasetuksista, jotka minun piti muuttaa "plain" muotoon. Tämän jälkeen homman alkoi rokkaamaan jälleen. Huh, olipa homma.
+
+Tein tämän tehtävän jo muka kerran aiemmin, mutta kun vertasin sivustoa xamppiin tehtyyn, niin kävikin ilmi, että kyseessä ei ollutkaan sama sivu (kuinka huono muisti ihmisellä voi olla, kun parissa viikossa unohtaa tällaiset :D). Lähdin siis ratkaisemaan tehtävää kokonaan uusiksi: poistin tietokannan ja kyseisen kansion kokonaan vle:stä ja tein koko homman uusiksi. Alkuperäinen ongelma johtui siitä, että olin muuttanut tietokannan nimen, jonka vuoksi sain jatkuvasti erroria, että tauluja olisi jo tietokannassa, vaikka sellaista ei ollut. eli jatkossa siis kannattaa muistaa, että tietokantojen tiedostonimiä EI tule muuttaa missään nimessä, jos haluaa varmuuskopioiden toimivan. Mielenkiintoinen pieni aspekti.
 
 ![](/harjoitus2/images/T12.png)
-"Oikea" ohjelmisto toimii wordpress urlissa ja tämä toinen wordpress2 urlissa.
+"Oikea" ohjelmisto toimii wordpress urlissa ja tämä toinen wordpressxampp urlissa.
 3/3
