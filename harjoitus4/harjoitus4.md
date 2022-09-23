@@ -40,11 +40,14 @@ Voi testata alla olevilla tunnuksilla
 
 ## T7
 No huh, onpas spesiaalihomma. En saa poistettua järjestelmästä. Vaadittu 
-define( 'WC_REMOVE_ALL_DATA', true);
-koodinpätkä löytyy config.php tiedostosta, mutta plugini ei vaan syösty poistumaan. On poistanut nyt tunnin tätä eikä ole mikään tieto minnekään kadonnut. Turhauttavaa
+koodinpätkä löytyy config.php tiedostosta:
+![](/harjoitus4/images/T7_phpconfig.png)
+mutta plugini ei vaan suostu poistumaan.
 
 ![](/harjoitus4/images/T7_eitoimi.png)
-2/2
+Enabloin virheviestit ja sain tällasen. Tämä auttoikin paljon :D
+![](/harjoitus4/images/T7_error.png)
+0/2
 
 
 ## T8
