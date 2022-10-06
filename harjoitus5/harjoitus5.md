@@ -21,6 +21,30 @@ Open mukana videolla.
 ![](/harjoitus5/images/t5.png)
 2/2
 ## Tehtävä 6
-Opettajan mukana videolla. Eli käytännössä funktiot määrittelee näytetäänkö ja miten näytetään kyseiset osat sivusta. Hyvä huomata, että erilliset tyylimäärittelyt voi määritellä vielä erikseen ulkonäköä, joten halutessa tehdä muutoksia siihen miten näytetään, niin tyylimäärittelyt pitää huomioida erikseen.
+Opettajan mukana videolla. Eli käytännössä funktiot määrittelee näytetäänkö ja miten näytetään kyseiset osat sivusta (eli otsikko ja itse sisältö). Hyvä huomata, että erilliset tyylimäärittelyt voi määritellä vielä erikseen ulkonäköä, joten halutessa tehdä muutoksia siihen miten näytetään, niin tyylimäärittelyt pitää huomioida erikseen.
 2/2
 ## Tehtävä 7
+Opettajan mukana videolla.
+![](/harjoitus5/images/t7.png)
+2/2
+## Tehtävä 8
+Opettajan mukana videolla. (Tageja olikin kauhea määrä :O)
+![](/harjoitus5/images/t8.png)
+2/2
+## Tehtävä 9
+Tehty opettajan mukana videolla. 
+![](/harjoitus5/images/t9.png)
+2/2
+## Tehtävä 10
+Tehty opettajan mukana videolla. 
+![](/harjoitus5/images/t10.png)
+2/2
+## Tehtävä 11
+Tehty opettajan mukana videolla
+![](/harjoitus5/images/t11.png)
+2/2
+## Tehtävä 12
+Tehty opettajan mukana videolla
+![](/harjoitus5/images/t12.png)
+2/2
+## Tehtävä 13
