@@ -54,7 +54,7 @@ Alla koodini blogi-template.php:ssä:
 ja alla vielä näkymä mitä tuosta var_dumpista tuli:
 ![](/harjoitus5/images/nakyma_t13.png)
 
-Tässä näkyy tarvittava, eli tosiaan tuon Blogin pitäisi olla ylimpänä, mutta jää alimmaksi Tavissivun jälkeen, vaikka on samanapäivänä julkaistu. Päivämäärien mukaan kuitenkin järjestäytyy kuten pitää
+Tässä näkyy tarvittava, eli tosiaan tuon Blogin pitäisi olla ylimpänä, mutta jää alimmaksi Tavissivun jälkeen, vaikka on samana päivänä julkaistu. Päivämäärien mukaan kuitenkin järjestäytyy kuten pitää
 ![](/harjoitus5/images/t13.png)
 1.5/2
 ## Tehtävä 14

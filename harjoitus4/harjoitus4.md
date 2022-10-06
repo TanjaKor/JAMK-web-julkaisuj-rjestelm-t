@@ -47,6 +47,8 @@ mutta plugini ei vaan suostu poistumaan.
 ![](/harjoitus4/images/T7_eitoimi.png)
 Enabloin virheviestit ja sain tällasen. Tämä auttoikin paljon :D
 ![](/harjoitus4/images/T7_error.png)
+<b>Konsoliin tulee siis internal server error 500.</b>
+ Olen kokeillut poistaa kaikki pluginit käytöstä ja päivittänyt .htaccess-tiedoston, latasin myös uudet wp-includes ja wp-content kansiot, jos ne olisi olleet korruptoituneet, mutta sekään ei auttanut. En enää keksi ratkaisuja tähän... :/ 
 0/2
 
 
@@ -60,7 +62,7 @@ Evästeet tyhjentämällä onnistuin äänestämään toisen kerran
 
 ## T9
 Huh, tämä muuttuikin aika jännittäväksi keissiksi :D 
-Latasin The ecents calendar pluginin ja kaikki toimi hyvin niin pitkään, kunnes yritin alkaa  korjaamaan widgetin "view calendar" linkin bugia (ohjasi väärälle siulle). Tämän jälkeen mulla menikin kaikki permalinkit rikki halki ja pinoon, mutta onneksi on google ja ratakisko-ohjeilla tästäkin selvittiin. Jouduin näpräilemään serverinkin asetusten kanssa, ennen kuin kaikki toimi jälleen kuten pitää. 
+Latasin The events calendar pluginin ja kaikki toimi hyvin niin pitkään, kunnes yritin alkaa  korjaamaan widgetin "view calendar" linkin bugia (ohjasi väärälle siulle). Tämän jälkeen mulla menikin kaikki permalinkit rikki halki ja pinoon, mutta onneksi on google ja ratakisko-ohjeilla tästäkin selvittiin. Jouduin näpräilemään serverinkin asetusten kanssa, ennen kuin kaikki toimi jälleen kuten pitää. 
 Plugin itsessään vaikuttaa aika kivalta ja helppokäyttöiseltä. Aika lailla idioottivarma, ellen jopa sanoisi. Plussaa siitä, että sivustolle saa myös widgetin, jossa näkyy tapahtumakalenteri ja ulkonäköä on helppo muokata, jos ei halua perinteistä mustavalkoista linjaa. Näkisin että tämä plugin on aikalailla ehdoton, jos omiin palveluihin kuuluu mitään tapahtumia/webskoja tms kalenteriin liittyvää :)
 
 ![](/harjoitus4/images/T9_2.png)
