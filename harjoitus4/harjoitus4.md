@@ -48,7 +48,7 @@ mutta plugini ei vaan suostu poistumaan.
 Enabloin virheviestit ja sain tällasen. Tämä auttoikin paljon :D
 ![](/harjoitus4/images/T7_error.png)
 <b>Konsoliin tulee siis internal server error 500.</b>
- Olen kokeillut poistaa kaikki pluginit käytöstä ja päivittänyt .htaccess-tiedoston, latasin myös uudet wp-includes ja wp-content kansiot, jos ne olisi olleet korruptoituneet, mutta sekään ei auttanut. En enää keksi ratkaisuja tähän... :/ 
+ Olen kokeillut poistaa kaikki pluginit käytöstä, vaihtanut teemaa ja päivittänyt .htaccess-tiedoston, latasin myös uudet wp-includes ja wp-content kansiot, jos ne olisi olleet korruptoituneet, mutta sekään ei auttanut. En enää keksi ratkaisuja tähän... :/
 0/2
 
 
