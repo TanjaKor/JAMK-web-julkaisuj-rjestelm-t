@@ -58,3 +58,11 @@ Tässä näkyy tarvittava, eli tosiaan tuon Blogin pitäisi olla ylimpänä, mut
 ![](/harjoitus5/images/t13.png)
 1.5/2
 ## Tehtävä 14
+Sinne meni kuten pitää.
+![](/harjoitus5/images/t14.png)
+![](/harjoitus5/images/t14_actors.png)
+4/4
+## Tehtävä 15
+Tässä tehtävässä lähestulkoon kopioin WP:n docs-sivuilta koodin, jota suositeltiin while-loopin kanssa. Aluksi sain näkyviin pelkät linkit, mutta sivujen numerointi ei pelannut. Sain sen toimimaan kun tajusin lisätä argsin yläpuolelle paged muuttujan, joka määrittelee ekalle sivulle sivunumeron 1. En ehkä ihan täysin tajua miten tuo kaikki tapahtuu, mutta nyt sivunumerointi toimii oikein ja linkit toimivat kuten pitää. Muutin argseihin cat-parametrin tilalle posts_per_page ja homma alkoi pelaamaan. Saattoi olla mukana taas sellaista kokeile ja erehdy meininkiä, mutta loppu hyvin kaikki hyvin.
+![](/harjoitus5/images/t15.png)
+![](/harjoitus5/images/t15_koodi.png)
