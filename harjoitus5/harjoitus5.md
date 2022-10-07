@@ -56,9 +56,11 @@ ja alla vielä näkymä mitä tuosta var_dumpista tuli:
 
 Tässä näkyy tarvittava, eli tosiaan tuon Blogin pitäisi olla ylimpänä, mutta jää alimmaksi Tavissivun jälkeen, vaikka on samana päivänä julkaistu. Päivämäärien mukaan kuitenkin järjestäytyy kuten pitää
 ![](/harjoitus5/images/t13.png)
+Alla näkyy vielä toimiva hyperlinkkikin (leffan otsikosta):
+![](/harjoitus5/images/t13_hyperlinkki.png)
 1.5/2
 ## Tehtävä 14
-Sinne meni kuten pitää.
+Sinne meni kuten pitää. Valmiin kautta oli tietenkin vähän helpompi ja nopeampi tehdä, mutta eipä tuossa custom linkissäkään ollut ongelmia, kun tiesi urlin.
 ![](/harjoitus5/images/t14.png)
 ![](/harjoitus5/images/t14_actors.png)
 4/4
@@ -66,3 +68,4 @@ Sinne meni kuten pitää.
 Tässä tehtävässä lähestulkoon kopioin WP:n docs-sivuilta koodin, jota suositeltiin while-loopin kanssa. Aluksi sain näkyviin pelkät linkit, mutta sivujen numerointi ei pelannut. Sain sen toimimaan kun tajusin lisätä argsin yläpuolelle paged muuttujan, joka määrittelee ekalle sivulle sivunumeron 1. En ehkä ihan täysin tajua miten tuo kaikki tapahtuu, mutta nyt sivunumerointi toimii oikein ja linkit toimivat kuten pitää. Muutin argseihin cat-parametrin tilalle posts_per_page ja homma alkoi pelaamaan. Saattoi olla mukana taas sellaista kokeile ja erehdy meininkiä, mutta loppu hyvin kaikki hyvin.
 ![](/harjoitus5/images/t15.png)
 ![](/harjoitus5/images/t15_koodi.png)
+2/2
