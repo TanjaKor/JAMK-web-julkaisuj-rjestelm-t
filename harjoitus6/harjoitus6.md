@@ -22,14 +22,23 @@ Videolta opettajan mukana. Tässäkään ei mitään erityistä. Käyttiksen kau
 ![](/harjoitus6/images/t5.png)
 2/2
 ## Tehtävä 6
-Tein alun opettajan mukana videolla. Sain linkin näkymään ja toimimaan, mutta sivu ei näytä portfolion kenttiä. Aluksi linkkikään ei halunnut toimia, mutta permalink-kikalla linkki sentään alkoi toimia oikein. Yritin säätää Portfolion field-groupin sääntöjäkin (näytetään kun-säännöt), mutta ei auttanut ongelmaan. Lähdekoodia katsomalla näyttäisi siltä, että yksittäiset portfoliot käyttää single-portfolio- luokkaa, eli eri templaattia kuin tuo archive sivu (mikä tietysti ihan loogista). Eli oletettavasti pitäisi korjata single.php-tiedostoon, että näkyisi?
+Tein alun opettajan mukana videolla. Sain linkin näkymään ja toimimaan, mutta sivu ei näytä portfolion kenttiä. Aluksi linkkikään ei halunnut toimia, mutta permalink-kikalla linkki sentään alkoi toimia oikein. Yritin säätää Portfolion field-groupin sääntöjäkin (näytetään kun-säännöt), mutta ei auttanut ongelmaan. Lähdekoodia katsomalla näyttäisi siltä, että yksittäiset portfoliot käyttää single-portfolio- luokkaa, eli eri templaattia kuin tuo archive sivu (mikä tietysti ihan loogista). Eli oletettavasti pitäisi korjata single.php-tiedostoon, että näkyisi? 
 ![](/harjoitus6/images/t6.png)
 Tältä näyttää, eli näyttää vain alkuperäisen sisällön, mutta ei näytä Portfolio-postin kenttiä.
 ![](/harjoitus6/images/t6_linkki.png)
-3/4
+*EDIT* Tämähän selvisikin tehtävässä 8, eli täydet pisteet sittenkin.
+4/4
 ## Tehtävä 7
-Tässä oli taas vähän enemmän pohtimista, mutta kokeilemalla selkiytyi mitkä jutut oli olennaisia tässä tiedostossa. Eli kommentoin alkuperäisi nwhileloopin ja sen if-lauseet ja kopioin portfolio-templaten loopin argseineen. Tämän jälkeen poistin pari kenttää listauksesta ja muutin nimen punaiseksi- Lisäsin myös yläreunaan otsikon "PORTFOLIOARCHIVE".
+Tässä oli taas vähän enemmän pohtimista, mutta kokeilemalla selkiytyi mitkä jutut oli olennaisia tässä tiedostossa. Eli kommentoin alkuperäisi nwhileloopin ja sen if-lauseet ja kopioin portfolio-templaten loopin argseineen. Tämän jälkeen poistin pari kenttää listauksesta ja muutin nimen punaiseksi- Lisäsin myös yläreunaan otsikon "PORTFOLIOARCHIVE". Hyvä huomio on se, että tähän EI kannata kirjailla teeman/templaten nimeä, koska rikkoo WP:n.
 ![](/harjoitus6/images/t7.png)
 2/2
 ## Tehtävä 8
-
+Tätä lähdin hakemaan aivan liian monimutkaisesti. Tajusin tehtävän yksinkertaisuuden vasta, kun googletin php-kieltä ja tajusin, että funktion kutsun eteen tarvitaan echo php:ta varten, eikä wp_querya niin kuin kuvittelin aiemmissa tehtävissä. Kun sen tajusi, niin hommahan oli kovin simppeli.
+![](/harjoitus6/images/t8.png)
+4/4
+## Tehtävä 9
+Aluksi tehtävänanto kuulosti aika pelottavalta, mutta ohjeistuksen kunnolla luettuani tämä olikin aika suoraviivainen (hyvien ohjeiden ansiosta). Kopioin generaattorista koodin suoraan, muutin name-kentät Products2 nimelle, samoin labelin. Tarvittavat nimitiedot kopioin ohjesivulta ja muutin sinne omat tietoni.
+![](/harjoitus6/images/t9_kayttis.png)
+![](/harjoitus6/images/t9_sivusto.png)
+Hyvältä näyttää.
+4/4

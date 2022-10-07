@@ -69,3 +69,4 @@ Tässä tehtävässä lähestulkoon kopioin WP:n docs-sivuilta koodin, jota suos
 ![](/harjoitus5/images/t15.png)
 ![](/harjoitus5/images/t15_koodi.png)
 2/2
+
