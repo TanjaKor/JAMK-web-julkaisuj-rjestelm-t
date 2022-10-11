@@ -22,7 +22,7 @@ Videolta opettajan mukana. Tässäkään ei mitään erityistä. Käyttiksen kau
 ![](/harjoitus6/images/t5.png)
 2/2
 ## Tehtävä 6
-Tein alun opettajan mukana videolla. Sain linkin näkymään ja toimimaan, mutta sivu ei näytä portfolion kenttiä. Aluksi linkkikään ei halunnut toimia, mutta permalink-kikalla linkki sentään alkoi toimia oikein. Yritin säätää Portfolion field-groupin sääntöjäkin (näytetään kun-säännöt), mutta ei auttanut ongelmaan. Lähdekoodia katsomalla näyttäisi siltä, että yksittäiset portfoliot käyttää single-portfolio- luokkaa, eli eri templaattia kuin tuo archive sivu (mikä tietysti ihan loogista). Eli oletettavasti pitäisi korjata single.php-tiedostoon, että näkyisi? 
+Tein alun opettajan mukana videolla. Sain linkin näkymään ja toimimaan, mutta sivu ei näytä portfolion kenttiä. Aluksi linkkikään ei halunnut toimia, mutta permalink-kikalla linkki sentään alkoi toimia oikein. Lähdekoodia katsomalla näyttäisi siltä, että yksittäiset portfoliot käyttää single-portfolio- luokkaa, eli eri templaattia kuin tuo archive sivu (mikä tietysti ihan loogista). Eli oletettavasti pitäisi korjata single.php-tiedostoon, että näkyisi? 
 ![](/harjoitus6/images/t6.png)
 Tältä näyttää, eli näyttää vain alkuperäisen sisällön, mutta ei näytä Portfolio-postin kenttiä.
 ![](/harjoitus6/images/t6_linkki.png)
