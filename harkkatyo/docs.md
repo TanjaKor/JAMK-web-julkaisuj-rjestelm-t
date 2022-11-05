@@ -29,3 +29,18 @@ Tähän meni aikaa n. 3-4h, sillä sopivan csv-generaattorin etsiminen ja käyt�
 
 ## Day 2
 Verkkokaupan kategoriat menuun, toiminnan testaus ja pieniä viilauksia, lopun sivuston hahmottelua. Eli uudet Pagesit Esittelylle, Gallerialle ja Yhteydenotolle. Samaan aikaan päivitin menua koko ajan. Sopivan lisäosan olin etsinut jo suunnitteluvaiheessa valokuvagallerialle. Valitsin gallerialle "Photo Gallery"-nimisen lisäosan, latausten määrän ja ilmaisen version ominaisuuksien perusteella. Pisimpään meni ehkä aikaa kuvien lataamisessa, sillä halusin helpottaa omaa naputteluani ja latasin omia kuviani sivuille. Näin ei tarvinnut miettiä käyttöoikeuksia sen kummmemmin. Lisäosan kautta sain kaikki gallerian tarvitsemat asetukset asetettua suoraan käyttöliittymästä. Tähän meni aikaa n. 4h, josta suuri osa meni kuvien lataamiseen ja etsimiseen.
+
+## Day 3-4
+Esittely-sivu kuntoon (sideen kuva, artikkelilistaus, somenapit) CTA-napit kauppaan ja ota yhteyttä sivuille.
+
+## Day 4 -6
+Ota yhteyttä sivu kuntoon (lomake, valokuvauksen ajanvaraus kalenteri sideen tai valinnan taakse?)
+
+## Day 6-7
+Blogisivu kuntoon (artikkeleita lisää, archive näkymän muokkaus gridimuotoon? vai mahdollisesti jaottelu kategorioittain kuten teeman kuvassa? Hero-kuva etusivulle? Tekeekö sotkuisen?)
+
+## Day 7-8 
+Loppuviilaus (menun säätö, testaus)
+
+## Day 8/9
+Raportin loppuunvienti
