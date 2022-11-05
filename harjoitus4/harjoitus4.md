@@ -49,6 +49,10 @@ Enabloin virheviestit ja sain tällasen. Tämä auttoikin paljon :D
 ![](/harjoitus4/images/T7_error.png)
 <b>Konsoliin tulee siis internal server error 500.</b>
  Olen kokeillut poistaa kaikki pluginit käytöstä, vaihtanut teemaa ja päivittänyt .htaccess-tiedoston, latasin myös uudet wp-includes ja wp-content kansiot, jos ne olisi olleet korruptoituneet, mutta sekään ei auttanut. En enää keksi ratkaisuja tähän... :/
+
+ <b>Yritys 2:</b>
+ Asensin "puhtaalle" (eli 5- ja 6-harkkojen wordpressiin) Woocommercen ja yritin poistaa. Sama ongelma toistuu. Lisäsin wp-config.php tiedostoon ensimmäisenä vaaditun koodinpätkän, deaktivoin woocommercen ja tämän jälkeen klikkasin "Delete". Voiko liittyä noihin muihin varotuksiin, mitä saan konsolista?
+ ![](/harjoitus4/images/t7_konsoli.png)
 0/2
 
 
