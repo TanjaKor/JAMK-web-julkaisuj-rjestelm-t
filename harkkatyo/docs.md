@@ -42,7 +42,7 @@ Tässä vaiheessa muistin tehdä lapsiteeman multipurpose-blog teemasta. Jouduin
 Esittelysivusta tein Custom Postin, eli Esittely-sivun. Esittely-sivu on archive-muotoinen sivu, johon on kerätty kaikki hahmot Rumia-Studiolta. Custom Post on tehty sivustokohtainen pluginin avulla (jonka tein itse, tähän ei siis ole käytetty lisäosaa). Koodi löytyy harkkatyön alta githubista nimellä oma-plugin.php ja esittelyjen sivupohja löytyy nimellä single-esittely.php. Käytin single-esittelyssä hyödyksi single.php tiedostoa, jota muokkasin tarvittavan verran, jotta sain sidebarin puolen muutettua sekä sidebarin itsessään vaihdettua toiseksi ja haluamani lisätiedot näkyviin.
 
 Custom Fieldseissä käytin tällä kertaa metatietoja, eli en käyttänyt tässäkään lisäosaa, vaan naputtelin haluamani custom fieldsit käyttöliittymäsä ja näytin ne the_meta() funktiolla single-esitys.php:ssä. 
-![](/web-julkaisujarjestelmat/harkkatyo/img/single-esittely.png)
+![](/img/single-esittely.png)
 Jouduin jonkun verran muuttamaan bootstrap-koodia, jotta sain sidebarista pienemmän ja itse postista isomman. Ongelmaksi muodostui se, että oisin halunnut kys. koodia lyhyemmäksi, koska mielestäni if-else rakennetta ei tuonne tarvita, koska sivua ei muokata enää erikseen käyttöliittymän kautta, mutta en löytänyt oikeaa pätkää, mitä voin poistaa ilman, että koko sivu menee rikki. TÄhän siis tarttee kysyä open neuvoa. Tänään aikaa meni noin 6h. Suurin osa meni single-esittelykoodin muokkaamiseen, sillä se meni aikalailla yritä-erehdy-metodilla.
 
 ## Day 5
