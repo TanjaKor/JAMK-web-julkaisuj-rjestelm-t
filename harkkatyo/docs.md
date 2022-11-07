@@ -17,7 +17,7 @@ Sivuston tarkoitus on toimia väylänä myydä Studio Rumian palveluita ja tuott
 
 Aloitin harkkatyön tekemisen valitsemalla sopivan teeman. Loin sivuston VLE-ympäristöön, mutta tarkoitus on tehdä varmuuskopiot paikalliselle koneelleni, josta siirrän ne githubiin. Sivuston aihe (halusin sivustolle myös woocommerce-verkkokaupan, mutta sen lisäksi blogimaisen tunnelman) rajasi sopivia teemoja aika paljon, joten lopulta teeman löytäminen pohjaksi oli suhteellisen helppoa ja nopeaa wp:n hakutoiminnalla. Alla olevasta kuvasta näkyy valitsemani teema: Multipurpose-Blog
 
-![](/web-julkaisujarjestelmat/harkkatyo/img/teema.png)
+![](img/teema.png)
 
 Olin jo päättänyt jonkun aikaa sitten mitä sisältöä eli millaisen rakenteen haluan sivustolle luoda, joten menun luominen oli lopulta simppeli homma. Alunperin suunnittelin työstä yksinkertaisen, jota voisin monipuolistaa ajan riittäessä. En kuitenkaan halunnut haukata liian suurta palaa heti kerralla, joten koin helpommaksi aloittaa pienestä ja ajan riittäessä lisätä toiminnallisuuksia ja omia säätöjäni. Tähän minulla meni aikaan n. 3h ottaen huomioon brainstormauksen mitä olin tehnyt jo aiemmin kurssin aikana. 
 
@@ -26,7 +26,7 @@ Olin jo päättänyt jonkun aikaa sitten mitä sisältöä eli millaisen rakente
 Itse sivuston rakentamisen aloitin verkkokaupasta. 
 
 Loin verkkokaupan tuotteet csv-generaattorilla. Sainpa samalla muistutella itselleni javascriptiä, kun generaattorilla pystyi luomaan myös fuktioilla arvoja muiden kenttien arvoista riippuen. Tämä helpotti suunnattomasti järkevän tuotekatalogin rakentamista. Tajusin vasta importtauksen jälkeen, että jouduin lisäämään kuvat manuaalisesti. Onneksi en halunnut verkkokauppaan kuin 20-30 tuotetta, joten manuaalinen näpertely ei ollut ihan kamalan työlästä. 
-![](/web-julkaisujarjestelmat/harkkatyo/img/csv_gen.png)
+![](img/csv_gen.png)
 Tähän meni aikaa n. 3-4h, sillä sopivan csv-generaattorin etsiminen ja käytön opettelu vei aikaa. Sain kuitenkin tässä ajassa verkkokaupan tehtyä loppuun lukuunottamatta kategorioiden lisäämistä menuun.
 
 ## Day 2
@@ -34,15 +34,15 @@ Verkkokaupan kategoriat menuun, toiminnan testaus ja pieniä viilauksia, lopun s
 
 ## Day 3
 Muokkasin galleria-sivua sen verran, että otin sivun titlen pois käytöstä, sillä halusin cover-kuvan toimivan sivun otsikkona:
-![](/web-julkaisujarjestelmat/harkkatyo/img/galleria_template.png)
-![](/web-julkaisujarjestelmat/harkkatyo/img/galleria_sivu.png)
+![](img/galleria_template.png)
+![](img/galleria_sivu.png)
 
 Tässä vaiheessa muistin tehdä lapsiteeman multipurpose-blog teemasta. Jouduin siis kopioimaan pari tiedostoa isäntäteeman kansiosta lapsikansioon. Onneksi vain 3!
 
 Esittelysivusta tein Custom Postin, eli Esittely-sivun. Esittely-sivu on archive-muotoinen sivu, johon on kerätty kaikki hahmot Rumia-Studiolta. Custom Post on tehty sivustokohtainen pluginin avulla (jonka tein itse, tähän ei siis ole käytetty lisäosaa). Koodi löytyy harkkatyön alta githubista nimellä oma-plugin.php ja esittelyjen sivupohja löytyy nimellä single-esittely.php. Käytin single-esittelyssä hyödyksi single.php tiedostoa, jota muokkasin tarvittavan verran, jotta sain sidebarin puolen muutettua sekä sidebarin itsessään vaihdettua toiseksi ja haluamani lisätiedot näkyviin.
 
 Custom Fieldseissä käytin tällä kertaa metatietoja, eli en käyttänyt tässäkään lisäosaa, vaan naputtelin haluamani custom fieldsit käyttöliittymäsä ja näytin ne the_meta() funktiolla single-esitys.php:ssä. 
-![](/img/single-esittely.png)
+![](img/single-esittely.png)
 Jouduin jonkun verran muuttamaan bootstrap-koodia, jotta sain sidebarista pienemmän ja itse postista isomman. Ongelmaksi muodostui se, että oisin halunnut kys. koodia lyhyemmäksi, koska mielestäni if-else rakennetta ei tuonne tarvita, koska sivua ei muokata enää erikseen käyttöliittymän kautta, mutta en löytänyt oikeaa pätkää, mitä voin poistaa ilman, että koko sivu menee rikki. TÄhän siis tarttee kysyä open neuvoa. Tänään aikaa meni noin 6h. Suurin osa meni single-esittelykoodin muokkaamiseen, sillä se meni aikalailla yritä-erehdy-metodilla.
 
 ## Day 5
