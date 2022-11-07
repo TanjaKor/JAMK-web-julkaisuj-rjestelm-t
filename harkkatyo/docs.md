@@ -5,6 +5,8 @@ Tanja Korolainen, AB3775, TTV21SM
 Web-julkaisujärjestelmät syksy 2022
 Palautettu ?????
 
+Ei mitään kokemusta php-ohjelmoinnista entuudestaan. Javascriptiä olen vähän pyöritellyt, samoin html on tuttua, css:stä perusteet. Bootstrap oli onneksi entuudestaan tuttu, joten sen muotoiluja oli suht helppo muuttaa, kun löysi php-koodin seasta oikeat kohdat.
+
 ## Taustaa
 Linkki sivustolle: http://172.21.4.76/rumia/
 
@@ -28,10 +30,23 @@ Loin verkkokaupan tuotteet csv-generaattorilla. Sainpa samalla muistutella itsel
 Tähän meni aikaa n. 3-4h, sillä sopivan csv-generaattorin etsiminen ja käytön opettelu vei aikaa. Sain kuitenkin tässä ajassa verkkokaupan tehtyä loppuun lukuunottamatta kategorioiden lisäämistä menuun.
 
 ## Day 2
-Verkkokaupan kategoriat menuun, toiminnan testaus ja pieniä viilauksia, lopun sivuston hahmottelua. Eli uudet Pagesit Esittelylle, Gallerialle ja Yhteydenotolle. Samaan aikaan päivitin menua koko ajan. Sopivan lisäosan olin etsinut jo suunnitteluvaiheessa valokuvagallerialle. Valitsin gallerialle "Photo Gallery"-nimisen lisäosan, latausten määrän ja ilmaisen version ominaisuuksien perusteella. Pisimpään meni ehkä aikaa kuvien lataamisessa, sillä halusin helpottaa omaa naputteluani ja latasin omia kuviani sivuille. Näin ei tarvinnut miettiä käyttöoikeuksia sen kummmemmin. Lisäosan kautta sain kaikki gallerian tarvitsemat asetukset asetettua suoraan käyttöliittymästä. Tähän meni aikaa n. 4h, josta suuri osa meni kuvien lataamiseen ja etsimiseen.
+Verkkokaupan kategoriat menuun, toiminnan testaus ja pieniä viilauksia, lopun sivuston hahmottelua. Eli uudet Pagesit Esittelylle, Gallerialle ja Yhteydenotolle. Samaan aikaan päivitin menua koko ajan. Sopivan lisäosan olin etsinut jo suunnitteluvaiheessa valokuvagallerialle. Valitsin gallerialle "Photo Gallery"-nimisen lisäosan, latausten määrän ja ilmaisen version ominaisuuksien perusteella. Pisimpään meni ehkä aikaa kuvien lataamisessa, sillä halusin helpottaa omaa naputteluani ja latasin omia kuviani sivuille. Näin ei tarvinnut miettiä käyttöoikeuksia sen kummemmin. Lisäosan kautta sain kaikki gallerian tarvitsemat asetukset asetettua suoraan käyttöliittymästä. Tähän meni aikaa n. 4h, josta suuri osa meni kuvien lataamiseen ja etsimiseen.
 
-## Day 3-4
-Esittely-sivu kuntoon (sideen kuva, artikkelilistaus, somenapit) CTA-napit kauppaan ja ota yhteyttä sivuille.
+## Day 3
+Muokkasin galleria-sivua sen verran, että otin sivun titlen pois käytöstä, sillä halusin cover-kuvan toimivan sivun otsikkona:
+![](/web-julkaisujarjestelmat/harkkatyo/img/galleria_template.png)
+![](/web-julkaisujarjestelmat/harkkatyo/img/galleria_sivu.png)
+
+Tässä vaiheessa muistin tehdä lapsiteeman multipurpose-blog teemasta. Jouduin siis kopioimaan pari tiedostoa isäntäteeman kansiosta lapsikansioon. Onneksi vain 3!
+
+Esittelysivusta tein Custom Postin, eli Esittely-sivun. Esittely-sivu on archive-muotoinen sivu, johon on kerätty kaikki hahmot Rumia-Studiolta. Custom Post on tehty sivustokohtainen pluginin avulla (jonka tein itse, tähän ei siis ole käytetty lisäosaa). Koodi löytyy harkkatyön alta githubista nimellä oma-plugin.php ja esittelyjen sivupohja löytyy nimellä single-esittely.php. Käytin single-esittelyssä hyödyksi single.php tiedostoa, jota muokkasin tarvittavan verran, jotta sain sidebarin puolen muutettua sekä sidebarin itsessään vaihdettua toiseksi ja haluamani lisätiedot näkyviin.
+
+Custom Fieldseissä käytin tällä kertaa metatietoja, eli en käyttänyt tässäkään lisäosaa, vaan naputtelin haluamani custom fieldsit käyttöliittymäsä ja näytin ne the_meta() funktiolla single-esitys.php:ssä. 
+![](/web-julkaisujarjestelmat/harkkatyo/img/single-esittely.png)
+Jouduin jonkun verran muuttamaan bootstrap-koodia, jotta sain sidebarista pienemmän ja itse postista isomman. Ongelmaksi muodostui se, että oisin halunnut kys. koodia lyhyemmäksi, koska mielestäni if-else rakennetta ei tuonne tarvita, koska sivua ei muokata enää erikseen käyttöliittymän kautta, mutta en löytänyt oikeaa pätkää, mitä voin poistaa ilman, että koko sivu menee rikki. TÄhän siis tarttee kysyä open neuvoa. Tänään aikaa meni noin 6h. Suurin osa meni single-esittelykoodin muokkaamiseen, sillä se meni aikalailla yritä-erehdy-metodilla.
+
+## Day 5
+Esittely-sivu kuntoon, eli custom-postin archive sivu kohdilleen.
 
 ## Day 4 -6
 Ota yhteyttä sivu kuntoon (lomake, valokuvauksen ajanvaraus kalenteri sideen tai valinnan taakse?)
