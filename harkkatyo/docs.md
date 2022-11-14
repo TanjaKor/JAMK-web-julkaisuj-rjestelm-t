@@ -43,13 +43,22 @@ Esittelysivusta tein Custom Postin, eli Esittely-sivun. Esittely-sivu on archive
 
 Custom Fieldseissä käytin tällä kertaa metatietoja, eli en käyttänyt tässäkään lisäosaa, vaan naputtelin haluamani custom fieldsit käyttöliittymäsä ja näytin ne the_meta() funktiolla single-esitys.php:ssä. 
 ![](img/single-esittely.png)
-Jouduin jonkun verran muuttamaan bootstrap-koodia, jotta sain sidebarista pienemmän ja itse postista isomman. Ongelmaksi muodostui se, että oisin halunnut kys. koodia lyhyemmäksi, koska mielestäni if-else rakennetta ei tuonne tarvita, koska sivua ei muokata enää erikseen käyttöliittymän kautta, mutta en löytänyt oikeaa pätkää, mitä voin poistaa ilman, että koko sivu menee rikki. TÄhän siis tarttee kysyä open neuvoa. Tänään aikaa meni noin 6h. Suurin osa meni single-esittelykoodin muokkaamiseen, sillä se meni aikalailla yritä-erehdy-metodilla.
+Jouduin jonkun verran muuttamaan bootstrap-koodia, jotta sain sidebarista pienemmän ja itse postista isomman. Ongelmaksi muodostui se, että olisin halunnut kys. koodia lyhyemmäksi, koska mielestäni if-else rakennetta ei tuonne tarvita, koska sivua ei muokata enää erikseen käyttöliittymän kautta, mutta en löytänyt oikeaa pätkää, mitä voin poistaa ilman, että koko sivu menee rikki. Tähän siis tarttee kysyä open neuvoa. Tänään aikaa meni noin 6h. Suurin osa meni single-esittelykoodin muokkaamiseen, sillä se meni aikalailla yritä-erehdy-metodilla.
 
 ## Day 5
-Esittely-sivu kuntoon, eli custom-postin archive sivu kohdilleen.
+Esittelysivun archive-versio olisi ollut ihan nätti sellaisenaankin (eli archive.php:n asetuksilla), mutta halusin muokata siitä kuitenkin omanlaiseni, joten tein allaolevan koodin siihen. Periaatteessa ulkoasu ei ihan kamalasti muuttunut muuten kuin kuvat pienenivät ja grid-muotoilu(korttityyli) poistui.
 
-## Day 4 -6
-Ota yhteyttä sivu kuntoon (lomake, valokuvauksen ajanvaraus kalenteri sideen tai valinnan taakse?)
+![](img/esittely_archive.png)
+
+Muokkasin myös single-esittely.php:tä niin, että sain postien välisen navigaation toimimaan ja näyttämään järkevältä:
+
+![](img/single_nav.png)
+
+Yhteydenottolomake toimii Forminator-lisäosan kautta, sillä saa lähetettyä viestin sekä laitettua ehdotuksen valokuvausajalle. Oletuksena form tuli vähän turhan lähelle teksti-kappaletta, niin muokkasin tekstin alamarginaalia, jotta sain siihen hiukan tilaa. Muutin myös lomakkeen css-koodia hieman (tein lomakkeesta kapeamman ja keskitin sen). Muokkasin oletus värit paremmin sopimaan teemaan (sinisestä vihreäksi korostukset). 
+
+Päivitin kauppasivuja vielä sen verran, että sain sinne oman sidebarin, eli muokkasin woocommerce/templates/global/sidebar.php-tiedostoa niin, että vaihdoin sidebarin nimen "shop":sta "kauppa"an, jolloin sain käyttiksessä muokkaamani sidebarin näkyviin vain kaupan sivuille. Lisäsin käyttiksessä tuotteiden etsimiselle ja uusille tuotteille otsikot ja lisäsin niihin ylä-marginaalia hiukan ja muokkasin uusimpien tuotteiden näyttöasetuksia niin, että rivejä oli kolmen sijaan kaksi. Muuten sidebar meni oletusasetuksilla. 
+
+Tänään aikaa meni eniten jälleen php-koodin rakentamiseen toimivaksi. Yhteensä aikaa meni n. 5h
 
 ## Day 6-7
 Blogisivu kuntoon (artikkeleita lisää, archive näkymän muokkaus gridimuotoon? vai mahdollisesti jaottelu kategorioittain kuten teeman kuvassa? Hero-kuva etusivulle? Tekeekö sotkuisen?)
