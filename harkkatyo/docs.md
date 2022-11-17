@@ -150,7 +150,7 @@ Testien myötä tiedot näyttävät tulevan sekä wordpressin dashboardille, ett
 
 ## Sivuston kokonaisrakenne
 
-Katso täältä (Figma) LINKKI!!!
+Katso täältä [Figma](https://www.figma.com/file/00q8lHduU06jZdk9RHum7o/Rumia?node-id=0%3A1&t=jQcksBYE1C6PtVsm-1)
 
 ## Käytetyt tunnit
 Tunnit sisältävät myös oikeiden lisäosien etsimiseen ja niiden opetteluun menneen ajan sekä verkkokaupan kohdalla csv-tiedoston luomiseen menneen ajan. Suurin osa dokumentoinnista on tehty työn edetessä, mutta käytin lopuksi aikaa vielä dikumentoinnin järjestelyyn ja selkeyttämiseen. Koko työ on tehty yksin.
@@ -162,4 +162,5 @@ Tunnit sisältävät myös oikeiden lisäosien etsimiseen ja niiden opetteluun m
 **Yhteystiedot:** n. 2h (vk 45)
 **Etusivu, footer, yleinen ilme, viimeistely:** n. 5h (vk 45 & 46 )
 **Dokumentointi:** n. 1h (viimeinen, vk 46)
-**Yhteensä:** n. 30h
+**Figma:** n. 3h
+**Yhteensä:** n. 33h
