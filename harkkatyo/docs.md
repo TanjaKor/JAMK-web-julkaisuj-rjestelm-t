@@ -34,6 +34,8 @@ Testattu Developer Toolsin avulla padi ja mobile-näkymää, mutta oikeita laitt
 
 ## Oma arvio
 
+Oma numeerinen arvio työstä: 3.5
+
 Mielestäni onnistuin käyttämään hyvin monipuolisesti käyttöliittymän perustoimintoja ja muokkaamaan perusnäkymiä luovasti sen kautta. Oma posttyyppi teetti eniten töitä ja mielestäni siitä tuli aika hyvä ottaen huomioon, että minulla ei ollut mitään taustatietoa php-ohjelmoinnista entuudestaan. Käytin myös lisäosia monipuolisesti ja Woocommercea lukuunottamatta käytin eri lisäosia kuin kurssin harjoitusten aikana. Pyrin tekemään ratkaisuja ja muokkauksia myös eri tavoin kuin harjoitteissa ja mielestäni onnistuin siinä. Erityisen ylpeä olen siitä miten pystyin luomaan pelkillä widgeteillä hyvinkin näyttävän ja toiminnallisen etusivun. Kaikenkaikkiaan kokonaisuus on mielestäni hyvä. Se on toimiva ja näyttävä.
 
 Kehittämistä on mielestäni ulkomuodossa (kontrasti erityisesti ei mene läpi esteettömyyden testauksesta). Php-koodista olisi voinut pyrkiä tekemään selkeämmän (jätin aika paljon vanhaa koodia tiedostoihin, enkä poistanut esim. if-else-rakenteita kuin yhdestä tiedostosta ja sieltäki vain osittain). Tässä olisi kehittämisen paikka, sillä if-else rakenteet ovat tiedostoissa sen vuoksi, että teema on vahvasti muokattavissa käyttöliittymän kautta. Tässä tapauksessa tämä kyseinen näkymä ja asettelu toimi vain juuri niillä asetuksilla, jotka olen käyttöliittymän kautta asettanut. Sidebarin puolta tai palstojen määrää muutettaessa tekemäni muutokset php-koodissa "katoavat", sillä en tehnyt muutoksia kuin tiettyihin vaiheisiin if-lausetta. Tässä tuli vastaan oma php-osaamisena ja tyydyin siihen, että sain muutokset näkyviin haluamallani tavalla.
