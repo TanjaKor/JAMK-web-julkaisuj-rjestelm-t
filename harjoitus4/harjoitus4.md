@@ -53,6 +53,9 @@ Enabloin virheviestit ja sain tällasen. Tämä auttoikin paljon :D
  <b>Yritys 2:</b>
  Asensin "puhtaalle" (eli 5- ja 6-harkkojen wordpressiin) Woocommercen ja yritin poistaa. Sama ongelma toistuu. Lisäsin wp-config.php tiedostoon ensimmäisenä vaaditun koodinpätkän, deaktivoin woocommercen ja tämän jälkeen klikkasin "Delete". Voiko liittyä noihin muihin varotuksiin, mitä saan konsolista?
  ![](/harjoitus4/images/t7_konsoli.png)
+
+### EDIT 
+Annettu asetus ei näytä toimivan
 0/2
 
 
