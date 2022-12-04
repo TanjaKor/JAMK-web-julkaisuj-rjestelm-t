@@ -155,7 +155,7 @@ Testien myötä tiedot näyttävät tulevan sekä wordpressin dashboardille, ett
 Katso täältä [Figma](https://www.figma.com/file/00q8lHduU06jZdk9RHum7o/Rumia?node-id=0%3A1&t=jQcksBYE1C6PtVsm-1)
 
 ## Käytetyt tunnit
-Tunnit sisältävät myös oikeiden lisäosien etsimiseen ja niiden opetteluun menneen ajan sekä verkkokaupan kohdalla csv-tiedoston luomiseen menneen ajan. Suurin osa dokumentoinnista on tehty työn edetessä, mutta käytin lopuksi aikaa vielä dikumentoinnin järjestelyyn ja selkeyttämiseen. Koko työ on tehty yksin.
+Tunnit sisältävät myös oikeiden lisäosien etsimiseen ja niiden opetteluun menneen ajan sekä verkkokaupan kohdalla csv-tiedoston luomiseen menneen ajan. Suurin osa dokumentoinnista on tehty työn edetessä, mutta käytin lopuksi aikaa vielä dokumentoinnin järjestelyyn ja selkeyttämiseen. Koko työ on tehty yksin.
 
 **Suunnittelu:** n. 3h (harjoituksia tehdessä lokakuun alusta lähtien)
 **Verkkokauppa:** n. 6h (ensimmäinen osa, jonka tein vk 43)
