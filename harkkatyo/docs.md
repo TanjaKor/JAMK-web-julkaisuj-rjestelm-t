@@ -34,7 +34,7 @@ Testattu Developer Toolsin avulla padi ja mobile-näkymää, mutta oikeita laitt
 
 ## Oma arvio
 
-Oma numeerinen arvio työstä: 3.5
+Oma numeerinen arvio työstä: 3
 
 Mielestäni onnistuin käyttämään hyvin monipuolisesti käyttöliittymän perustoimintoja ja muokkaamaan perusnäkymiä luovasti sen kautta. Oma posttyyppi teetti eniten töitä ja mielestäni siitä tuli aika hyvä ottaen huomioon, että minulla ei ollut mitään taustatietoa php-ohjelmoinnista entuudestaan. Käytin myös lisäosia monipuolisesti ja Woocommercea lukuunottamatta käytin eri lisäosia kuin kurssin harjoitusten aikana. Pyrin tekemään ratkaisuja ja muokkauksia myös eri tavoin kuin harjoitteissa ja mielestäni onnistuin siinä. Erityisen ylpeä olen siitä miten pystyin luomaan pelkillä widgeteillä hyvinkin näyttävän ja toiminnallisen etusivun. Kaikenkaikkiaan kokonaisuus on mielestäni hyvä. Se on toimiva ja näyttävä.
 
